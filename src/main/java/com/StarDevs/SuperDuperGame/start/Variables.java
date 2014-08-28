@@ -5,7 +5,7 @@ package com.StarDevs.SuperDuperGame.start;
  */
 public class Variables {
 
-    public static float speedx, speedz, speedy, speed2y, speed2x, speed2z, angle = 70, angle2 = 0, q = 1,
-    Lightx = 250, Lighty=0, Lightz=0;
+    public static float Lightx = 250, Lighty=0, Lightz=0, enterpriseX = 0, enterpriseY =0, enterpriseZ =-20,cubeRotateX = 0,
+    EnterpriseRotY = 90;
 
 }
